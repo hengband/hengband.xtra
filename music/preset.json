@@ -1,0 +1,194 @@
+[
+    {
+        "filename": "readme.txt",
+        "sha256_digest": "0be9445ed4104605046160351601acb9b02f0c4563eb752e75dda0d99e3cd540"
+    },
+    {
+        "filename": "field_high2.mp3",
+        "sha256_digest": "2b8dc651d61c93d823b278f336eb39c70bfa5877c1ff519804ec47f85b89b5be"
+    },
+    {
+        "filename": "dun_med4.mp3",
+        "sha256_digest": "c6ba7fbeed25a40a831867519fe13b6da8f427869da4bf605f7c2cc9704c964e"
+    },
+    {
+        "filename": "feel2.mp3",
+        "sha256_digest": "b7a1a9fd829fbc0bf40ef438d8af7e3943d72b99edf31ace10431facac0818ef"
+    },
+    {
+        "filename": "quest4.mp3",
+        "sha256_digest": "f5b344ecb5cb955efe4c822f65fc40f1abeedfbb367450c30ade0c68a7bccf6f"
+    },
+    {
+        "filename": "dun_high1.mp3",
+        "sha256_digest": "447201ab97a521fdb6d89bfbffd4d5d8cb64133f2703460e2e9e29f490329a4f"
+    },
+    {
+        "filename": "dun_high2.mp3",
+        "sha256_digest": "dfc0372e5299406f507c13585c8becf33eb589120c2c272ded030d0708cab4e5"
+    },
+    {
+        "filename": "ambush.mp3",
+        "sha256_digest": "8b3fc9c02e98037b5156ad5931933cbc58e56c7dcd259d37faaf0daa8b5fbe16"
+    },
+    {
+        "filename": "quest2.mp3",
+        "sha256_digest": "3a987bef57e305e7f7e520fa4e7819f69b15a8d08794fe2cfacf8438a337d85c"
+    },
+    {
+        "filename": "exit.mp3",
+        "sha256_digest": "8033fcd9fb20b1883fea7449dd9bbc5bb0f0359de918dc6483a761e51f8fdda4"
+    },
+    {
+        "filename": "dun_low1.mp3",
+        "sha256_digest": "537bf8a4c7c4bf669c4412fb97e63408eea5f1ba12c28b2e15bebfa50458fe6d"
+    },
+    {
+        "filename": "field_med2.mp3",
+        "sha256_digest": "65ce4b3d36d154a4cc4932e9ec612d06ca6f5053552a70c967cef50cc37a0a61"
+    },
+    {
+        "filename": "town4.mp3",
+        "sha256_digest": "707c77c65380db5bc24eb8eaaf42200c1394313a938c06cea66a3b5ea7ab08e5"
+    },
+    {
+        "filename": "field_low3.mp3",
+        "sha256_digest": "41ae4b2d1d8187baf79ce1a85deb7a2e595e41e5c6c59056653df4284e92c86b"
+    },
+    {
+        "filename": "field_med3.mp3",
+        "sha256_digest": "45a621528d64cdbe43f039c949a50c41cbabf6873e70b9fba999ebbe8fe46c14"
+    },
+    {
+        "filename": "feel1.mp3",
+        "sha256_digest": "c9f978be9fa44f16ff54d766170fe15f7cbfa261268c28d2068a08907d68ec0f"
+    },
+    {
+        "filename": "winner.mp3",
+        "sha256_digest": "f6d07568896d51ffa969b3d09d6849108ec99f8b699293aaff9e05cc65c0ae7f"
+    },
+    {
+        "filename": "dun_high4.mp3",
+        "sha256_digest": "7959d80ced2373f8b912d8f161f20af9096322e804c3fcec813d9e9abfc47c63"
+    },
+    {
+        "filename": "dun_low3.mp3",
+        "sha256_digest": "25ec042782a3325047d057aff6f7abccd9b4c11763df049aad79d2e45eddc6d0"
+    },
+    {
+        "filename": "The_Serpent_of_Chaos.mp3",
+        "sha256_digest": "a41788b3f2cf742dad3bf85610f189571b98ca2b8c7af6e29c5f18ba2fb2eae5"
+    },
+    {
+        "filename": "town3.mp3",
+        "sha256_digest": "92dce5c52ceeac844bfd7dd56003e7427da04b0925f0315974148040919c9d20"
+    },
+    {
+        "filename": "dun_low2.mp3",
+        "sha256_digest": "15cedfc5dbc7ed5698e59a8eec8a6342721941cd91fcb4c9639b76cc3cf26732"
+    },
+    {
+        "filename": "field_low2.mp3",
+        "sha256_digest": "ffbc4c99e8b9cdf2d25df33ec4c7b18b7ae911537e1e1d4bc61a299448ffa4a9"
+    },
+    {
+        "filename": "field_med1.mp3",
+        "sha256_digest": "5386c0563c21ecad9a4262db0c3229b60511ef37599814ed9330086e4d85eaeb"
+    },
+    {
+        "filename": "quest_clear.mp3",
+        "sha256_digest": "f058067ff6252f2d3f55c702278024aa809872f9bd8999cc4b9f11f34b98aeab"
+    },
+    {
+        "filename": "build.mp3",
+        "sha256_digest": "df181591f418b4091711cde1dc7fe34b9d0e9d76fc2ccf5b68ff7053ad441316"
+    },
+    {
+        "filename": "town2.mp3",
+        "sha256_digest": "d67a8b4efe84396c016d276ac9c874dec9a81b6e7ce60c6a5ec70d07781f7622"
+    },
+    {
+        "filename": "field_high3.mp3",
+        "sha256_digest": "de5e73cb28a1b25b8dde45dec02fe7cfebe8a1582bf001a428897f6ac37d964f"
+    },
+    {
+        "filename": "town1.mp3",
+        "sha256_digest": "ba81b68ad1f14703b94b79ead57da7f6942e64130c191baf0c452b826b46ef05"
+    },
+    {
+        "filename": "dun_high3.mp3",
+        "sha256_digest": "cc60677a574197cdcaa3b9c62750900cd61d74e9d27df7c0d809e1577e2c99b0"
+    },
+    {
+        "filename": "field_high1.mp3",
+        "sha256_digest": "d1800bdb46ad8e8fa11387ae9e12000fcde1f3394dd29a35a71979193155f40d"
+    },
+    {
+        "filename": "gameover.mp3",
+        "sha256_digest": "cdb4b26454af22fed45981e7bcf37359fc15e43f1dda535d0198827961ce6ec7"
+    },
+    {
+        "filename": "battle.mp3",
+        "sha256_digest": "3ee3be33c1a62a2f76e73bab47f0bc64f7d7d96b2f99b1d2fe18a24e507f62aa"
+    },
+    {
+        "filename": "dun_low4.mp3",
+        "sha256_digest": "85e54949aaf35afe302ed8526af0586cd64e0554cf6347a2aecd3b9361f916dd"
+    },
+    {
+        "filename": "dun_med2.mp3",
+        "sha256_digest": "62f21dc11cccf9b19776532c6c18c2d0739caa2b72bcee3c4cf402c3d9610b9b"
+    },
+    {
+        "filename": "new_game.mp3",
+        "sha256_digest": "2974830bf96aec607fac0ebf9302b41470b30b185f06d3daeaa7c83bbf1b650d"
+    },
+    {
+        "filename": "arena.mp3",
+        "sha256_digest": "8b67a42b517e162b227e745379239a63aa74c1e3e019dd4c077e242340904710"
+    },
+    {
+        "filename": "quest1.mp3",
+        "sha256_digest": "2aaf8c0626991754a440b85b8be769e8f5c3f88b287d9f745e6042eebfb17bc8"
+    },
+    {
+        "filename": "dun_med5.mp3",
+        "sha256_digest": "6e5d9f13164297bf2ad7bc12224736b3de0cea416386f62376dc114479bf6373"
+    },
+    {
+        "filename": "quest3.mp3",
+        "sha256_digest": "4dfbad870f61ea7b611d524523905d06a5f51960e67e5f4d0d9a536d50b17c5b"
+    },
+    {
+        "filename": "dun_med3.mp3",
+        "sha256_digest": "f0f2172ce81b01275b7935bd3e7454dffdfcffad5d75b717f5368e23c0ad007e"
+    },
+    {
+        "filename": "wild.mp3",
+        "sha256_digest": "6e668ae63c9826cc2145a95d728769c80857079b173f99a7b39bc20d88cdc212"
+    },
+    {
+        "filename": "dun_med1.mp3",
+        "sha256_digest": "b0a012126e17da73857a1091ba0eee44d3997f1b628a4be1e5e065949cef921c"
+    },
+    {
+        "filename": "town5.mp3",
+        "sha256_digest": "21e521c7bfa6d57c8b97f8604779f4a241e9cecb462ba4d99b5de3f9895b2d90"
+    },
+    {
+        "filename": "dun_high5.mp3",
+        "sha256_digest": "5bfc8890c8f618d49687d7e955d08760ed288e684ac3892fc08a235ccd3b0dc1"
+    },
+    {
+        "filename": "dun_low5.mp3",
+        "sha256_digest": "01b0334f7cac6267c98df5bd1965f079e9077a3ce4b08e7824e51ff56088a50b"
+    },
+    {
+        "filename": "field_low1.mp3",
+        "sha256_digest": "994d9fc5c9a7a4bb788f315c8a0716cb97ff2fa1b51f79f6903b0579a987f51e"
+    },
+    {
+        "filename": "music.cfg",
+        "sha256_digest": "9d37f01d71ce9b54bb112807fc7547fe6cc2d47012a0119b70b088cd962507b5"
+    }
+]

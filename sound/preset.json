@@ -1,0 +1,334 @@
+[
+    {
+        "filename": "readme.txt",
+        "sha256_digest": "046c4411756692f6d0c4dafb5568ddaaa2539b539d7640be205c3666e0af342b"
+    },
+    {
+        "filename": "bite.wav",
+        "sha256_digest": "1a45bb53019d4a4c042bcc667297faa9d8ca7c4ae0ac3ec47bd0bfc97463eb92"
+    },
+    {
+        "filename": "slash.wav",
+        "sha256_digest": "0040b37783be1de3bf16513f0294ac8c57b04e199689f231b6bc776aef5a487f"
+    },
+    {
+        "filename": "kill1.wav",
+        "sha256_digest": "484e4d77856401429bbc7dd97b52ee3d68e51fa1fd549ed456f0ca8d80c8cb3a"
+    },
+    {
+        "filename": "sell.wav",
+        "sha256_digest": "453c56da52959d4ec61ef20d598a471ba25b8a1af8045a64b6f507544ccaf909"
+    },
+    {
+        "filename": "crush.wav",
+        "sha256_digest": "2156804d44d4110b535ea701d42cc0cd850896670399e9d3db251da10575dac9"
+    },
+    {
+        "filename": "touch.wav",
+        "sha256_digest": "4a78f89d2812e3b1019831ba90e857c9064536a6759f704b31b5ab9efd521881"
+    },
+    {
+        "filename": "claw.wav",
+        "sha256_digest": "3fc2b2eb270f41532d333830a37e87dd47a9b341d9e7188810eeffba122f6635"
+    },
+    {
+        "filename": "sword-slash3-r.wav",
+        "sha256_digest": "a49f48a7b1d6a5c84550fcfd1c0687a165d56e933e9fc07cd0b4b8b4dc4987ed"
+    },
+    {
+        "filename": "stairway2.wav",
+        "sha256_digest": "b063f7985e0d8afb8fbeca4c4b82d84fb030c01d3465355d0a8ed59d42ddfb2f"
+    },
+    {
+        "filename": "moan.wav",
+        "sha256_digest": "b1a729a64818ce05d3246abc27c12bcc2c5b2198d044bac032e46c36ff4db478"
+    },
+    {
+        "filename": "hit2.wav",
+        "sha256_digest": "1fe5d98af49ad94f26daa7cf9d89db15e6917f2e18c358d9ec1d281bb657cc31"
+    },
+    {
+        "filename": "fall.wav",
+        "sha256_digest": "2b4c4a8256b7d71964085e5a68e7fac2ba44083f258663d1eeb10369bfccc4cf"
+    },
+    {
+        "filename": "damage_over_time.wav",
+        "sha256_digest": "cb79c85e5d3557d831be3e38be08ec0191d7fe4033042027fa8419f2acb5b95e"
+    },
+    {
+        "filename": "drop2.wav",
+        "sha256_digest": "a52cbc4ab2e14c5be26edc890ee8b0ec5d8a9e2f009d07cf21a16e60ade68acf"
+    },
+    {
+        "filename": "summon.wav",
+        "sha256_digest": "140601f7d3c6230833bf25e3f8d079d34a4113444db185ff4d82ca713aacb6cd"
+    },
+    {
+        "filename": "explode.wav",
+        "sha256_digest": "a6c1ea13807af0752d523c331f8c31b37c512d580a0ca5f8c45b991b8ad1d8aa"
+    },
+    {
+        "filename": "miss2.wav",
+        "sha256_digest": "bf2b898be98d6ac183accfa593f3a0f1f7ae5af39b7bf242be18ae4f65f5c0d4"
+    },
+    {
+        "filename": "stairway1.wav",
+        "sha256_digest": "daf1060eaea85ba0368ff28c39b38ba8bb019c4259b3fd21ca3a15395c48599e"
+    },
+    {
+        "filename": "hitwall1.wav",
+        "sha256_digest": "c2c97995756d58c145db194e138378c1df5e28777354da71edb475b2a7d3e8d8"
+    },
+    {
+        "filename": "hitwall3.wav",
+        "sha256_digest": "155d8383a5013b2dccaad454fb942eb8660636644ca0a6f98a73267aa20b244d"
+    },
+    {
+        "filename": "down.wav",
+        "sha256_digest": "fd71b014a8e11698ce643a77aa1c7e0be997417b80fa5025806349e148cc2395"
+    },
+    {
+        "filename": "take_off.wav",
+        "sha256_digest": "467e447ed7567ab4c97960745a90811db67ca17387c0f028a5f1dc9a13afc4fd"
+    },
+    {
+        "filename": "miss1.wav",
+        "sha256_digest": "1f60e051624fa2f1b69f481e61f998b2e1d364d0a89968c17c91038673a569d0"
+    },
+    {
+        "filename": "scroll.wav",
+        "sha256_digest": "26d5bd948086dc178c2d5c649e6d84b907fb12e083afaaa375eda3257713a398"
+    },
+    {
+        "filename": "shutdoor3.wav",
+        "sha256_digest": "c54ee83dccb948f37130eb4cba57a5ff763b7b4ac053379288cd9391f562461f"
+    },
+    {
+        "filename": "level.wav",
+        "sha256_digest": "c11453788822640fb9c6148fdaf7e022f4eef7b649cdb853c5d111b6e83f6bb3"
+    },
+    {
+        "filename": "evil.wav",
+        "sha256_digest": "7211578f3ece711c5f36c6dc28ee26a6548fa124088558db64f816cfc9b066c5"
+    },
+    {
+        "filename": "shoot_hit2.wav",
+        "sha256_digest": "89c08085d7e92ec39d8faa80ebd4e0287e568c5b0a88e5d81f0785c1c4c00aff"
+    },
+    {
+        "filename": "terrain_damage.wav",
+        "sha256_digest": "5d87848ccf4f79eb51933419c78881c91e4fd0fb074797c0187320670582193d"
+    },
+    {
+        "filename": "zap.wav",
+        "sha256_digest": "c843695fb380c993c5281f2ac54198ad6e7b7db59237d76821724ce58fd1594e"
+    },
+    {
+        "filename": "warn.wav",
+        "sha256_digest": "a1c0429546e9f20f14e6608584108ee1c18998c18c750fb118a53520816b5972"
+    },
+    {
+        "filename": "eat3.wav",
+        "sha256_digest": "ae9f246f7bd311eac93abe7bd3fed7c56a3a3d752632c690a87ae0cf4ed3bc5c"
+    },
+    {
+        "filename": "miss3.wav",
+        "sha256_digest": "770028a278523cff3b9d0a44d01d2fa91d175745bd5cbb88946005d449a423af"
+    },
+    {
+        "filename": "opendoor1.wav",
+        "sha256_digest": "9a8c93f02a905b4623d11fcb4a0f042bbe10901fbefa36e73bfd28d26c97ac2c"
+    },
+    {
+        "filename": "study.wav",
+        "sha256_digest": "68fdab7d1bb895a5a717607255db04f600d0b41a5ea8d471e6e0cb6b4ba9d363"
+    },
+    {
+        "filename": "fail.wav",
+        "sha256_digest": "a58bb75f7aff584705cca8c603363f1dfc868570f164a63164656b93530f9655"
+    },
+    {
+        "filename": "sting.wav",
+        "sha256_digest": "8ab2637644818003988688eddf94cd222918d582c28860962f6ff1bad9efed80"
+    },
+    {
+        "filename": "se_maoudamashii_battle07.wav",
+        "sha256_digest": "1539b352c357fc70fac3b94fa6c3ccb40e912d12cf8ab866a4a5bbbeaced470c"
+    },
+    {
+        "filename": "sword-gesture3-r.wav",
+        "sha256_digest": "df2d6d1cf51ebee667b56ca1c5d1a88f4a883e9d88dc28c7ffa15895af722c2b"
+    },
+    {
+        "filename": "quaff.wav",
+        "sha256_digest": "c4dd3a4093b5eb4bf459963f71d7a1dfc8ded4d0bbf9b6d1819bdd5be97500ce"
+    },
+    {
+        "filename": "shoot_hit1.wav",
+        "sha256_digest": "4a8f7b022245fb81339d65417ec0d2b1ef4d3d00404ce8c4e1b2c9531f4dfa10"
+    },
+    {
+        "filename": "show.wav",
+        "sha256_digest": "3c299335276e8ddc3c8873f9db05d73924627315b6e7d6ce8976c9a8825bdfde"
+    },
+    {
+        "filename": "hitwall2.wav",
+        "sha256_digest": "35081a8f75863ba98e55540e4b37aa77680eeaa2871395f216f71365d5002361"
+    },
+    {
+        "filename": "eat2.wav",
+        "sha256_digest": "4bdedbd7cca149f4c5c2b83115d36e76f6d4f7ece7e8d0ff2a928371c9501b60"
+    },
+    {
+        "filename": "shutdoor2.wav",
+        "sha256_digest": "c65e04a16bc68a3130b90b223e0c18edbb0d4cd85b37952fbb731effa359f781"
+    },
+    {
+        "filename": "destitem.wav",
+        "sha256_digest": "cdfb127e9006adf4509944855c11a27736af975365cf7000af825a3800609ce8"
+    },
+    {
+        "filename": "se_maoudamashii_se_drink01.wav",
+        "sha256_digest": "a298e9bb3871b2ea0225338993f4ed94ff391bd7f9f55adf647ca265206ca557"
+    },
+    {
+        "filename": "tplevel.wav",
+        "sha256_digest": "1eaf8072fabc630b054752b7026e0c59c2d77efbe7ce1c587d1295c1c7fef197"
+    },
+    {
+        "filename": "kill2.wav",
+        "sha256_digest": "68a65411e25bccaf9dad30779785f417bedb290d02fc0edadc4faba2bd9eefb4"
+    },
+    {
+        "filename": "reflect.wav",
+        "sha256_digest": "6ab0eb0795058c96309056f22d352abb3ec5018d509efbb10917d5171813e3df"
+    },
+    {
+        "filename": "hit3.wav",
+        "sha256_digest": "3747f5b43ad3aa13dc9068ea8ecc218acb3581569a69ddb2fbbcf938aad4a7f9"
+    },
+    {
+        "filename": "sea-lion2-r.wav",
+        "sha256_digest": "5087f8c420e1b2d464e6b1e39be036a1fc75ba8943d03a295f4ada946002dd61"
+    },
+    {
+        "filename": "store1.wav",
+        "sha256_digest": "7a31d7a4ebc1e1fef5a20e9987a6cefe4297a1fa9b8c9c60d0810ec226f7378a"
+    },
+    {
+        "filename": "shoot.wav",
+        "sha256_digest": "2f5415d40c75bd1eea08141c8039df6e8340997da85bd60993c30f5e44e5a3a3"
+    },
+    {
+        "filename": "teleport.wav",
+        "sha256_digest": "c7f64f392f54ae9f39e3104fb654bb240c2399feaa7ecd9c6899cbfe501d2193"
+    },
+    {
+        "filename": "opendoor3.wav",
+        "sha256_digest": "67019cd53b0277d1637e6a1940547198212f3d254a73a754238691dab17d3ed9"
+    },
+    {
+        "filename": "wail.wav",
+        "sha256_digest": "fcd0ee9e4e77dcd7d437a6c2bb587b13e6dedd22e8deb16878aefb6d66ec3935"
+    },
+    {
+        "filename": "wield.wav",
+        "sha256_digest": "7e0f38f42e547d5bd7f38c247d9279ff816d4afe30eb10061dc5cb6fc343bbcf"
+    },
+    {
+        "filename": "pain.wav",
+        "sha256_digest": "8448970a2d9d881cc6d046e8a71a481e19c76b207dbd25674cdda05424370c3e"
+    },
+    {
+        "filename": "hit1.wav",
+        "sha256_digest": "33c83d0f97a475957d97cf8667cf3fda7439b9aa9ff3106bb19c91a2239d40ff"
+    },
+    {
+        "filename": "glass.wav",
+        "sha256_digest": "f2280a79fd33ff488b1efbf99c1d5539fd52210ddeeeb0e6b903e0fef861ed41"
+    },
+    {
+        "filename": "drop1.wav",
+        "sha256_digest": "1c0f9f2bab7de71c683eed3009d51a3859771cb6092d074ccdaef876b05587fa"
+    },
+    {
+        "filename": "buy.wav",
+        "sha256_digest": "6b182cb259d6ca0072708d2d2ac0b4bda20f112a62cbb802558c04fba842f941"
+    },
+    {
+        "filename": "eat1.wav",
+        "sha256_digest": "7efefc221d0e236af6e39514969f46e0ba3c911a47b78a9f5ee80cf7def7c89e"
+    },
+    {
+        "filename": "shutdoor1.wav",
+        "sha256_digest": "f6f538d6d8e0efc0da2053f0ffb7b3bc216dcc8a75466fad4e2beb461030bebb"
+    },
+    {
+        "filename": "breath.wav",
+        "sha256_digest": "5b664dbfd2ca908374e1be037308c52ac8ecc4ceb3fab2bb580e93aa466970ad"
+    },
+    {
+        "filename": "decision25r.wav",
+        "sha256_digest": "c783dd5b62c44d55df41131d6f8f2d8364c5281be2107c8b096c08fc6cbfb25c"
+    },
+    {
+        "filename": "enemy-advent1-r.wav",
+        "sha256_digest": "4b49ac6d67634aa13de8a36c7811b457af6529fd74fac161b6f1e0247ead90b2"
+    },
+    {
+        "filename": "flee.wav",
+        "sha256_digest": "24d6bb6d490542491bbc35f255321d5f22bc28b272ce127b4d8c73796bdf5164"
+    },
+    {
+        "filename": "n_kill.wav",
+        "sha256_digest": "cc06d465431b19140c5268c4eca1f2e393171c03f3b81a7d5c62a647d5a30417"
+    },
+    {
+        "filename": "apple1-r.wav",
+        "sha256_digest": "f3424c8c0900e3ddf6d5d5b56f6242c5f71348b6f7fc86d32ad87d80d07a01c9"
+    },
+    {
+        "filename": "hungry2.wav",
+        "sha256_digest": "69ac9de036cef1df4073c686b3f930be31ccb0df1b12b00572cd50f67086ceea"
+    },
+    {
+        "filename": "hungry1.wav",
+        "sha256_digest": "7120a8cd8b498b97ae5ce8e06a3194e20298d847daaa942ad5248e2378936e51"
+    },
+    {
+        "filename": "tpother.wav",
+        "sha256_digest": "758739d075a1c86739f2a4b0401929285724e76d8e4a4859ae16bb7a0612989d"
+    },
+    {
+        "filename": "se_maoudamashii_voice_monster01.wav",
+        "sha256_digest": "44a30c835f4e7de998817f10d95cbe9610f353b25e4097ed2178d6de821b19a3"
+    },
+    {
+        "filename": "critical.wav",
+        "sha256_digest": "121a6de72967f65f92e17b0b70b867f7293c7173ef164850dc6384c14cc7d270"
+    },
+    {
+        "filename": "slime.wav",
+        "sha256_digest": "8c8cbc508645facb73f4e4d109105fa744cb2e396b99cf4889de9e1c7247be10"
+    },
+    {
+        "filename": "store2.wav",
+        "sha256_digest": "4d82edc508bf07750c61bba02a32ede11c4c508beab01266946a86783c46bbbd"
+    },
+    {
+        "filename": "sword-clash1-r.wav",
+        "sha256_digest": "3792333533e68d66535b657f8c3f769a72e81fbf9b0df4bc0cad2d776c07f397"
+    },
+    {
+        "filename": "opendoor2.wav",
+        "sha256_digest": "15a60a96dc3993aed7b109f2e1ef21371be60a9dcf42f197e6fd99b3919d615e"
+    },
+    {
+        "filename": "se_maoudamashii_retro22.wav",
+        "sha256_digest": "6c6a475673f2ea9a4f25768ddd612f0bd2c73ac7418701345b64cadf64aa5b8e"
+    },
+    {
+        "filename": "sound.cfg",
+        "sha256_digest": "d06108c3f92a6ae408592b2156d50fb6bb16c80b22162c7a22479678ea59e04d"
+    }
+]
