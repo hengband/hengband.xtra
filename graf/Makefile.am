@@ -4,6 +4,7 @@ angband_files = \
 	8x8.bmp
 
 EXTRA_DIST = \
+  delete.me \
   $(angband_files)
 
 if SET_GID
